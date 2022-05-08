@@ -1,7 +1,7 @@
 Projeto do desafio Tech Syngenta feito em Python3
 ===
 
-**Tenha certeza que você possui Python3 instalado na máquina e que o seu PIP aponte para ele**
+**Tenha certeza que você possui Python3 instalado na máquina e que o seu PIP aponte para ele.**
 
 Para instalar os modulos necessários para os testes:
 
